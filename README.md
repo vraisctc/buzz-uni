@@ -2,17 +2,18 @@
 
 ## Project 1
 
-In the **Advanced Marketing** course we were challenged in helping a local parapharmarcy shop revive its in-house home fragrances and candles line.
+In the <code style="color : green">**Advanced Marketing**</code> course we were challenged in helping a local parapharmarcy shop revive its in-house home fragrances and candles line.
 * I lead a team of 7 in understanding the products, researching the market and finding ineffieciencies.
 * The knowledge acquired was used to propose an _integrated_ set of solutions
 * Final result
    * three reports
    * one presentation.
 
-[View Project 1 PDF](project1.pdf)
+[View Final presentation PDF](Edelweiss_presentation.pdf)
+ * [View Report 1](a.pdf)
 
 ## Project 2
 
-Description of Project 2.
+In the <code style="color : green">**Organisation Design and Development**</code>
 
-[View Project 2 PDF](project2.pdf)
+[View Final presentation PDF](BDFPresentation_Ciss.pdf)
