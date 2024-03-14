@@ -10,7 +10,7 @@ In the <code style="color : green">**Advanced Marketing**</code> course we were 
    * one presentation.
 
 [View Final presentation PDF](Edelweiss_presentation.pdf)  
-[View Report 3/3]
+[See above for Reports 1-3]
  
  ## Project 2
 
