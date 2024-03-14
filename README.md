@@ -9,8 +9,8 @@ In the <code style="color : green">**Advanced Marketing**</code> course we were 
    * three reports
    * one presentation.
 
-[View Final presentation PDF](Edelweiss_presentation.pdf)
-[View Report 3/3]()
+[View Final presentation PDF](Edelweiss_presentation.pdf)  
+[View Report 3/3]
  
  ## Project 2
 
